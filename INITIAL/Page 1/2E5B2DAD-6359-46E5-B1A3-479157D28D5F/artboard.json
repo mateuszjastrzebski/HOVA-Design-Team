@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1080,
+    "height": 659,
     "width": 1920,
     "x": -427,
     "y": -272
@@ -39,15 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
-      "id": "CAA66DF6-7BF9-4CE1-A569-9879AB49E476"
-    },
-    {
-      "class": "text",
-      "id": "265C1B68-7E13-4AB7-B8B0-C26913B41F0E"
+      "id": "6992B12F-E65F-4873-8035-9D370FF4CE34"
     }
   ],
   "name": "TEST PAGE",
